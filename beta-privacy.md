@@ -27,7 +27,6 @@ For any question about your data, or to use any of your rights below, write to s
 - your iPhone model, iOS version and the headphones you use;
 - your answers about how you make music and capture ideas;
 - whether you would like to share a video made with SongDrafter;
-- the name you'd like to be credited with in the app, if you give one.
 
 **During the beta, through Apple TestFlight:**
 Apple shares some information with us about testers, such as your email address (if you were invited by email), your device model and iOS version, crash reports, and any feedback or screenshots you send through TestFlight. Apple's own processing is covered by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
@@ -46,7 +45,6 @@ We don't ask for your full name, address, phone number or payment details, and w
 - to find and fix bugs, using crash reports and your feedback;
 - to send you the end-of-beta questionnaire;
 - to give you the full version of SongDrafter free, as promised to founding testers;
-- to credit you in the app, only if you asked to be credited and only with the name you gave.
 
 Testers are chosen by hand. No automated decision-making or profiling is used.
 
@@ -70,7 +68,6 @@ Some of these providers may process data outside the European Economic Area, for
 ## How long we keep it
 
 - **Form answers, questionnaire answers and messages:** until the beta ends and you've received the full version, and at most **[3] months** after the beta ends. Then we delete them.
-- **Credit name:** for as long as it's shown in the app, or until you ask us to remove it.
 - **TestFlight data:** Apple keeps beta builds and their data for up to 90 days per build.
 
 If you leave the beta earlier, we delete your data within 30 days, except what we need to keep for a legal reason.
