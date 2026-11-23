@@ -5,7 +5,7 @@ permalink: /beta-privacy/
 
 # SongDrafter Beta – Privacy Notice
 
-*Last updated: [DATE]*
+*Last updated: 23.11.2026*
 
 This notice explains what happens to your data when you apply for the SongDrafter beta and take part in it. It covers the beta application form, the TestFlight beta and the questionnaire at the end. The app itself is covered by the separate [SongDrafter Privacy Policy](/).
 
